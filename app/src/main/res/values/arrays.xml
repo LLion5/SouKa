@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel">
+        <item>推荐</item>
+        <item>视频</item>
+        <item>热点</item>
+    </string-array>
+
+    <string-array name="hot">
+        <item>最美寝室</item>
+        <item>学科竞赛</item>
+        <item>校友会</item>
+        <item>寝室几点熄灯</item>
+        <item>丢失东西去哪找</item>
+        <item>学习问题</item>
+        <item>组队</item>
+    </string-array>
+
+</resources>
